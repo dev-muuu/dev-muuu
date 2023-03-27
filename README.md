@@ -23,6 +23,6 @@
 
 | Service | Description | Part | Link | State |
 | --- | --- | --- | --- | --- |
-| Todoary | 한 것과 할 일의 기록 | iOS 파트장 | [Repo](https://github.com/Todoary/Todoary-iOS)  | 런칭 완료🍎 |
-| POME | 포미, 나를 위한 소비 기록 | iOS | [Repo](https://github.com/PomeTeam/POME_iOS) | 런칭 완료🍏 |
+| Todoary | 한 것과 할 일의 기록 | iOS 파트장 | [Repo](https://github.com/Todoary/Todoary-iOS)  | 런칭🍎 |
+| POME | 포미, 나를 위한 소비 기록 | iOS | [Repo](https://github.com/PomeTeam/POME_iOS) | 런칭🍏 |
 | Zatch | 요즘 Z 세대들이 재치있게 자취하는 방법 | PM + iOS | [Repo](https://github.com/Zatch-Team/Zatch_iOS) | 개발 중 |
